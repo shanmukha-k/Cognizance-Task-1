@@ -1,0 +1,15 @@
+step 1 : Function Main
+step 2: Declare Integer a, b, n, c, i
+step 3 : Assign a = 0
+step 4 : Assign b = 1
+step 5 : Output "Enter the nth number"
+step 6 : Input n
+step 7 : Output a
+step 8 : Output b
+step 9 : For i = 2 to n-1
+step 10 : Assign c = a+b
+step 11 : Output c
+step 12 : Assign a = b
+step 13 : Assign b = c
+step 14 : End
+step 15 : End

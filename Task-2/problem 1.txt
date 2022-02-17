@@ -1,0 +1,16 @@
+step 1 : Function Main
+step 2 : Declare Integer num, divisor, remainder
+    
+step 3 : Output "Enter the number: "
+step 4 : Input num
+step 5 : Assign divisor = 3
+step 6 : While num>=divisor
+step 7 : Assign num = num-divisor
+step 8 : End
+step 9 : Assign remainder = num
+step 10 : If remainder==0
+step 11 : Output "The number is divisible by 3"
+step 12 : False:
+step 13 : Output "The number is not divisible by 3"
+step 14 : End
+step 15 : End
