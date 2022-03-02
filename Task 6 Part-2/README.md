@@ -39,9 +39,8 @@ ___
   * Enter area sq feet
   <input type="number" id="area" name="area"/>
 * Price Range $
-  * Max
-  * Min
-  <input type="number" id="max" name="max"/>
+  * Min <input type="number" id="min" name="min"/>
+  * Max <input type="number" id="max" name="max"/>
   
   
   
