@@ -1,7 +1,7 @@
 # **Landing Page Design ⬇️**
 <img width="20" height="20" 
 src="https://www.clipartmax.com/png/full/59-590244_home-icon-home-icon-png-red.png">
-<body style = "background: url(https://images.app.goo.gl/qnWXpgjjkGUDirzh9)">
+
 
 ___
 ## **DreamFill**
