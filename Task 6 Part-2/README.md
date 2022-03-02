@@ -40,9 +40,10 @@ ___
   <input type="number" id="area" name="area"/>
 * Price Range $
   * Min
-  <input type="number" id="min" name="min"/>
-   * Max
+  * Max
   <input type="number" id="max" name="max"/>
+  <input type="number" id="min" name="min"/>
+   
  
 
 > **Find**
