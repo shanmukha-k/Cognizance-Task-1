@@ -42,7 +42,7 @@ ___
   * Max
   <input type="number" id="max" name="max"/>
   * Min
-  <input type="number" id="min" name="min"/>
+  
   
    
  
