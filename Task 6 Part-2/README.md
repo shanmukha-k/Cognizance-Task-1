@@ -41,7 +41,7 @@ ___
 * Price Range $
   * Min
   <input type="number" id="min" name="min"/>
-  * Max
+* Max
   <input type="number" id="max" name="max"/>
  
 
